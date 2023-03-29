@@ -1,0 +1,21 @@
+{
+  "name": "aeyz-dark",
+  "displayName": "AEyz Dark",
+  "description": "Meaningful color emphasis.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "AEyz Dark - Meaningful",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AEyz Dark - Meaningful-color-theme.json"
+      }
+    ]
+  }
+}
